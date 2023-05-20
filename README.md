@@ -1,6 +1,6 @@
 # 3e (tree) - a tree command replacement
 
-![Imgur](https://i.imgur.com/tRltSbs.gif)
+![Imgur](https://i.imgur.com/OdPfSld.gif)
 
 
 Annoyed by Windows' native tree command not supporting "skip some directories" functionality, ended up doing my own cli tree command. 3e (pronounced tree) is just that a replacement for tree, an ascii directories tree generator.
