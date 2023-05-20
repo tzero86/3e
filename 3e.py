@@ -34,7 +34,7 @@ $$ ___$$\\
 $$\\   $$ |$$   ____|
 \\$$$$$$  |\\$$$$$$$\\ 
  \\______/  \\_______|(tree) by @tzero86    
-    a better tree command for Windows.
+        a better tree command for Windows.
 '''
     )
 
