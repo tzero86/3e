@@ -10,7 +10,7 @@ just use the exe provided or generate your own with pyinstaller and add it to sy
 pyinstaller --onefile 3e.py
 ```
 
-enjoy!
+enjoy! '.git'
 
 
 Once added to the path simply use it:
