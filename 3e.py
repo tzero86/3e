@@ -33,9 +33,8 @@ $$ ___$$\\
   \\___$$\\ $$$$$$$$ |
 $$\\   $$ |$$   ____|
 \\$$$$$$  |\\$$$$$$$\\ 
- \\______/  \\_______|(tree)
-    a better tree command for windows.
-    by @tzero86
+ \\______/  \\_______|(tree) by @tzero86    
+    a better tree command for Windows.
 '''
     )
 
